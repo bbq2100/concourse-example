@@ -3,7 +3,7 @@ resources:
 - name: source-code
   type: git
   source:
-    uri: https://github.com/altfatterz/concourse-example.git
+    uri: https://github.com/qaismyname/concourse-example.git
     branch: master
 
 jobs:
